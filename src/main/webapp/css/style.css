@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+
+.primary-background{
+	background:#00b9f9;
+}
+
+.button-text{
+	font-weight : 100;
+}
+
+.invisible-content{
+	display : none;
+}
+
+
+.card-footer{
+	background: #f0f0f0;
+}
+
+.post-title{
+		font-weight : 100;
+		font-size  : 30px;		
+	}
+
+.post-content {
+		font-weight : 100;
+		font-size : 20px;
+	
+}
+
